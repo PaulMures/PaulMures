@@ -1,0 +1,9 @@
+import random
+
+
+
+
+
+yolk=('yellow','moldy','PURPLE','watery','solid','gooey','nutricious','spherical','disgusting','fishy')
+y=random.choice(yolk)
+print(y)
