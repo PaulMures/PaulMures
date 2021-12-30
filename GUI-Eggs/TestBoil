@@ -1,0 +1,5 @@
+if messagebox.askokcancel(title='Yolk',message='Your yolk is ' + yourYolk):
+        print("Been Yolked")
+        window.destroy()
+    else:
+        print("You yolkn't")
