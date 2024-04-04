@@ -1,3 +1,2 @@
-- Hi, I'm Paul
-- I’m interested in various kinds of programming
-- I’m currently learning Python and will be moving to C# soon
+Interested in various types of Software Development
+Experience in Python, C#, Java, and JavaScript
